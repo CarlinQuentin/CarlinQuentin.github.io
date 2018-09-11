@@ -1,0 +1,18 @@
+.box-B{
+  height: 40%;
+}
+.box-A{
+    background-color: lightslategray;
+    overflow: scroll;
+    
+}
+.bigbox{
+    color: black;
+}
+.me{
+    background-color: yellow;
+}
+.resume-link{
+    background-color: rgb(30, 30, 30);
+    color: rgb(100, 100, 100);
+}

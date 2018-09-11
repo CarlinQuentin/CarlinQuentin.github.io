@@ -1,0 +1,11 @@
+body{
+    background: gray;
+}
+#stuff{
+font-family: var(--font2);
+background-image: url("https://images.pexels.com/photos/218863/pexels-photo-218863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+height: 1500px;
+background-repeat: no-repeat;
+width: 100%; 
+/* margin-top: 200px; */
+}
