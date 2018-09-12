@@ -13,3 +13,12 @@ a:hover{
 .nav-link{
     color: white;
 }
+.in{
+    color: rgb(9, 175, 9);
+    font-size: 35px;
+    margin: 3px;
+}
+.fb{
+    font-size: 35px;
+    margin: 3px;
+}
