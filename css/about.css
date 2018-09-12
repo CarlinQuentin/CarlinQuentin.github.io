@@ -2,9 +2,7 @@
   height: 40%;
 }
 .box-A{
-    background-color: lightslategray;
-    overflow: scroll;
-    
+    background-color: lightslategray;    
 }
 .bigbox{
     color: gray;
