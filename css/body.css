@@ -4,8 +4,40 @@ body{
 #stuff{
 font-family: var(--font2);
 background-image: url("https://images.pexels.com/photos/218863/pexels-photo-218863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-height: 1500px;
+height: 1200px;
 background-repeat: no-repeat;
 width: 100%; 
 /* margin-top: 200px; */
+}
+
+.projects{
+    color: gray;
+    height: 700px;
+    width: 100%;
+}
+.projectsTitle{
+    margin-top: 10em;
+    margin-left: 40%;
+    color: black;
+}
+
+.myh2{
+    color: black;
+    border: 3px solid black;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+}
+
+.x{
+    border-radius: 40%;
+    border: 5px solid black;
+    margin-left: 5%;
+}
+.word{
+    color: black;
+    margin-left: 30%;
 }
